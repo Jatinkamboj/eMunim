@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/eMunim/static/css/main.7526c399.css",
-    "main.js": "/eMunim/static/js/main.a18b711d.js",
+    "main.js": "/eMunim/static/js/main.cd8b24e9.js",
     "static/js/787.28cb0dcd.chunk.js": "/eMunim/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/eMunim/index.html",
     "main.7526c399.css.map": "/eMunim/static/css/main.7526c399.css.map",
-    "main.a18b711d.js.map": "/eMunim/static/js/main.a18b711d.js.map",
+    "main.cd8b24e9.js.map": "/eMunim/static/js/main.cd8b24e9.js.map",
     "787.28cb0dcd.chunk.js.map": "/eMunim/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7526c399.css",
-    "static/js/main.a18b711d.js"
+    "static/js/main.cd8b24e9.js"
   ]
 }
