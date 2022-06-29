@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.heading{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px !important;
+}
+.dropdown_from{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 2%;
+}
+
+.dropdown_to{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 2%;
+}
+
+.table_container{
+  width:40%;
+  margin-left: 27%;
+}
+
+.button-container{
+  /* border:2px solid black; */
+  border-radius: 200px;
+  display: inline-block;
+  position: relative;
+}
+
+.button-container span{
+  position: absolute;
+  top:5.9em;
+  left:2.6em;
+  /* background-color:#8F0005; */
+  border-radius:1.5em;
+  /* color:white; */
+  /* text-transform:uppercase; */
+  padding:1em 1.5em;
+}
